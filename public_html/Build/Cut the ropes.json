@@ -1,0 +1,14 @@
+{
+"companyName": "Functu",
+"productName": "Adam and Eve - Cut the snakes",
+"dataUrl": "Cut the ropes.data.unityweb",
+"asmCodeUrl": "Cut the ropes.asm.code.unityweb",
+"asmMemoryUrl": "Cut the ropes.asm.memory.unityweb",
+"asmFrameworkUrl": "Cut the ropes.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Cut the ropes.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
